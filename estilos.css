@@ -1,0 +1,60 @@
+
+
+
+.topo{
+  border:5px ;
+  border-style:outset;
+  border-color: #fae4fc;
+  position: 0px;
+
+  }
+
+
+.titulo{
+   margin: 5px;
+   height: 80px;
+  border:2px solid #8b00dc;
+  font-size: 4em;
+  text-shadow: 3px 3px #ffaf49;
+  
+  border-color: #e44304;
+  float:right;
+
+   width: 100%;
+   background: #ffc77d;
+   text-align: center;;
+  color: #e44304;
+}
+
+.texto1{
+   font-size: 2em;
+   background: #ffddb0;
+    text text-align: center;
+}
+
+h1{
+    background: #fe8d00;
+  font-family: times;
+  font-size: 32px;
+  text-align: center;
+  text-shadow: 2px 2px #ffddb0;
+  color: #880061;
+   width: 1200px;
+   position: center;
+}
+
+   .antigo{
+
+       float:left;
+       border: 10px  solid black;
+       width:50%;
+      margin-top: 10px;
+
+   }
+
+   .novaimage{
+    border: 10px solid #fe8d00;
+     width:100%;
+      padding :0px;
+       margin: 5px;
+   }
