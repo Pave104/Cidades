@@ -6,7 +6,7 @@
     border: 5px;
     border-style: outset;
     border-color: #fae4fc;
-    position: 0px;
+
 }
 
 .titulo {
@@ -20,14 +20,14 @@
     width: 100%;
     background: #ffc77d;
     text-align: center;
-    ;
     color: #e44304;
 }
 
 .texto1 {
     font-size: 2em;
     background: #ffddb0;
-    text text-align: center;
+    text-align: center;
+    font-family: AlexBrush-Regular.ttf;
 }
 
 h1 {
